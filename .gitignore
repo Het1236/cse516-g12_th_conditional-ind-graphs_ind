@@ -1,0 +1,7 @@
+# Recorded milestone videos stay local / on Google Drive only, for every milestone.
+# The shareable link is tracked instead, in each milestone's Video/*_Video_Link.txt file.
+**/Video/*.mp4
+**/Video/*.mov
+**/Video/*.mkv
+**/Video/*.avi
+**/Video/*.webm
