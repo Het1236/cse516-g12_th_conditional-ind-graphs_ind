@@ -13,7 +13,7 @@ milestone, following the naming convention `M<n>_g12_th_conditional-ind-graphs_i
 | Milestone | Folder | Status |
 |---|---|---|
 | M1 — Proposal and Scoping | [`M1_g12_th_conditional-ind-graphs_ind/`](./M1_g12_th_conditional-ind-graphs_ind) | Submitted |
-| M2 — Technical Foundation | `M2_g12_th_conditional-ind-graphs_ind/` | Not started |
+| M2 — Technical Foundation | [`M2_g12_th_conditional-ind-graphs_ind/`](./M2_g12_th_conditional-ind-graphs_ind) | Submitted |
 | M3 — Results and Analysis | `M3_g12_th_conditional-ind-graphs_ind/` | Not started |
 | M4 — Final Submission | `M4_g12_th_conditional-ind-graphs_ind/` | Not started |
 

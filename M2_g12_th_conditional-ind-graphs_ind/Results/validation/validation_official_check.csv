@@ -1,0 +1,2 @@
+check,what is compared,measured,criterion,pass,note
+V8 same results as the public uGLAD code,"my implementation and the public one, same data, same seed, same settings (4 datasets, M = 10, 50, 100, 500)",max AUPR difference 0.0002; same edge counts: False; max entry difference 0.062,AUPR difference below 0.01,True,

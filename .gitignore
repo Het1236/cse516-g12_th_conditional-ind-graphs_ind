@@ -5,3 +5,7 @@
 **/Video/*.mkv
 **/Video/*.avi
 **/Video/*.webm
+
+__pycache__/
+*.pyc
+.venv/
