@@ -1,0 +1,46 @@
+network,method,variant,n,mean,paper_value,se,sd,ci_lo,ci_hi
+ecoli1,cMLP,quoted from Khanna and Tan (2019),0,0.644,0.644,,,,
+ecoli1,cLSTM,quoted from Khanna and Tan (2019),0,0.629,0.629,,,,
+ecoli1,TCDF,quoted from Khanna and Tan (2019),0,0.614,0.614,,,,
+ecoli1,SRU,quoted from Khanna and Tan (2019),0,0.657,0.657,,,,
+ecoli1,eSRU,quoted from Khanna and Tan (2019),0,0.66,0.66,,,,
+ecoli1,DYNOTEARS,baseline,1,0.5691139240506329,0.59,,,,
+ecoli1,PCMCI+,baseline,1,0.5400506329113924,0.53,,,,
+ecoli1,Rhino+g,paper,5,0.6428049012658228,0.673,0.005953339205418012,0.013312071156429258,0.6262757817693578,0.6593340207622878
+ecoli1,Rhino,paper,5,0.6566523139240505,0.685,0.009616686161129068,0.02150356397456609,0.6299521127037604,0.6833525151443407
+ecoli2,cMLP,quoted from Khanna and Tan (2019),0,0.568,0.568,,,,
+ecoli2,cLSTM,quoted from Khanna and Tan (2019),0,0.609,0.609,,,,
+ecoli2,TCDF,quoted from Khanna and Tan (2019),0,0.647,0.647,,,,
+ecoli2,SRU,quoted from Khanna and Tan (2019),0,0.666,0.666,,,,
+ecoli2,eSRU,quoted from Khanna and Tan (2019),0,0.629,0.629,,,,
+ecoli2,DYNOTEARS,baseline,1,0.5472373343629527,0.547,,,,
+ecoli2,PCMCI+,baseline,1,0.5315927605735139,0.519,,,,
+ecoli2,Rhino+g,paper,5,0.6445170639858008,0.665,0.007232264024178269,0.016171833989288793,0.6244370799363729,0.6645970480352287
+ecoli2,Rhino,paper,2,0.6560560161722822,0.68,0.01214813422585903,0.017180056179738622,0.5016993355328593,0.810412696811705
+yeast1,cMLP,quoted from Khanna and Tan (2019),0,0.585,0.585,,,,
+yeast1,cLSTM,quoted from Khanna and Tan (2019),0,0.579,0.579,,,,
+yeast1,TCDF,quoted from Khanna and Tan (2019),0,0.581,0.581,,,,
+yeast1,SRU,quoted from Khanna and Tan (2019),0,0.617,0.617,,,,
+yeast1,eSRU,quoted from Khanna and Tan (2019),0,0.627,0.627,,,,
+yeast1,DYNOTEARS,baseline,1,0.5232301996270622,0.527,,,,
+yeast1,PCMCI+,baseline,1,0.5222010678467378,0.53,,,,
+yeast1,Rhino+g,paper,5,0.6293771179899585,0.659,0.005717781725327429,0.012785348618338164,0.6135020109060838,0.6452522250738333
+yeast1,Rhino,paper,5,0.6335171681233783,0.664,0.011612215786569494,0.02596570386816558,0.6012764884422569,0.6657578478044998
+yeast2,cMLP,quoted from Khanna and Tan (2019),0,0.506,0.506,,,,
+yeast2,cLSTM,quoted from Khanna and Tan (2019),0,0.519,0.519,,,,
+yeast2,TCDF,quoted from Khanna and Tan (2019),0,0.556,0.556,,,,
+yeast2,SRU,quoted from Khanna and Tan (2019),0,0.575,0.575,,,,
+yeast2,eSRU,quoted from Khanna and Tan (2019),0,0.557,0.557,,,,
+yeast2,DYNOTEARS,baseline,1,0.5302276552761015,0.526,,,,
+yeast2,PCMCI+,baseline,1,0.5045512064555423,0.51,,,,
+yeast2,Rhino+g,paper,2,0.5848527648402017,0.598,0.0021211369042380963,0.0029997405776235973,0.5579011650609507,0.6118043646194526
+yeast2,Rhino,paper,2,0.5530026782186972,0.585,0.0002487509625726525,0.00035178698492360734,0.5498419975598645,0.5561633588775299
+yeast3,cMLP,quoted from Khanna and Tan (2019),0,0.528,0.528,,,,
+yeast3,cLSTM,quoted from Khanna and Tan (2019),0,0.555,0.555,,,,
+yeast3,TCDF,quoted from Khanna and Tan (2019),0,0.557,0.557,,,,
+yeast3,SRU,quoted from Khanna and Tan (2019),0,0.55,0.55,,,,
+yeast3,eSRU,quoted from Khanna and Tan (2019),0,0.55,0.55,,,,
+yeast3,DYNOTEARS,baseline,1,0.5069858264800681,0.51,,,,
+yeast3,PCMCI+,baseline,1,0.5145527647804172,0.512,,,,
+yeast3,Rhino+g,paper,5,0.5648264760345874,0.588,0.0042874379934432,0.009587002802654293,0.5529226398038529,0.5767303122653218
+yeast3,Rhino,paper,5,0.5538079390380952,0.567,0.007653340256695461,0.01711338906890674,0.5325588599439799,0.5750570181322106

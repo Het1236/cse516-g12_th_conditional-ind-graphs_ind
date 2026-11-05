@@ -1,0 +1,11 @@
+task,a,b,net,diff,p,na,nb,p_holm_dream3
+netsim,rhino_paper,rhino_g_paper,-,0.015340909090909238,0.02047039372112516,5,5,
+netsim,rhino_paper,rhino_noinst_paper,-,0.07522095959595954,0.0008306634307486885,5,5,
+netsim,rhino_paper,rhino_shipped,-,0.05599747474747496,0.011738756550691795,5,5,
+netsim,rhino_g_paper,rhino_g_shipped,-,0.06622474747474738,0.00421968422158078,5,5,
+netsim,rhino_noinst_paper,rhino_noinst_shipped,-,0.05446654040404053,0.0019906839805462306,5,5,
+dream3,rhino_paper,rhino_g_paper,ecoli1,0.013847412658227753,0.2622894185237558,5,5,1.0
+dream3,rhino_paper,rhino_g_paper,ecoli2,0.011538952186481377,0.5092034361185537,2,5,1.0
+dream3,rhino_paper,rhino_g_paper,yeast1,0.0041400501334197815,0.7602269532399223,5,5,1.0
+dream3,rhino_paper,rhino_g_paper,yeast2,-0.03185008662150446,0.03978858399613242,2,2,0.1989429199806621
+dream3,rhino_paper,rhino_g_paper,yeast3,-0.011018536996492134,0.25377030029484704,5,5,1.0

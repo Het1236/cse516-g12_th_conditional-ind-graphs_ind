@@ -1,0 +1,2 @@
+job_id,method,model_type,config,dataset,dim,gtype,inst,hist,seed,model_seed,extra
+netsim_rhino_paper__s0,netsim_rhino_paper,rhino,configs_m3/real/netsim_rhino_paper.json,netsim_sim3,15,,,,,0,-ede

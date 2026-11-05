@@ -1,0 +1,2 @@
+comparison,n,mean_diff,boot_lo,boot_hi,wins,losses,p
+"Rhino minus PCMCI+, 20 nodes",40,0.051812474047138055,0.002153865645980946,0.10276245411012083,20,20,0.058402880749781616
