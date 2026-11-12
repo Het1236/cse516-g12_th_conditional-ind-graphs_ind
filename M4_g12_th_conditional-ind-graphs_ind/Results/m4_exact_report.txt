@@ -1,0 +1,25 @@
+﻿M4 exact export report
+date: 2026-11-11T10:55:55   host: DESKTOP-OBJH48Q   root: D:\Het\rhino_work_transfer\rhino_work
+python: D:\Het\rhino_work_transfer\rhino_work\rhino_env\venv\Scripts\python.exe
+python 3.9.25 numpy 1.23.5 torch 1.12.1+cpu
+methods: ['rhino']
+
+exported 3 jobs, failed 0. exact vs 100-sample mean: mean abs diff 0.0023 (largest per job 0.0044); max abs diff 0.071 (expected up to about 0.15 from sampling noise only)
+methods: ['dream3_rhino_g_paper', 'dream3_rhino_paper', 'netsim_rhino_g_paper', 'netsim_rhino_g_shipped', 'netsim_rhino_noinst_paper', 'netsim_rhino_noinst_shipped', 'netsim_rhino_paper', 'netsim_rhino_shipped', 'rhino', 'rhino_g', 'rhino_lag1', 'rhino_lag3', 'rhino_s', 'rhino_shipped']
+done 50
+done 100
+done 150
+done 200
+done 250
+done 300
+done 350
+done 400
+done 450
+done 500
+done 550
+done 600
+done 650
+done 700
+done 750
+
+exported 760 jobs, failed 0. exact vs 100-sample mean: mean abs diff 0.0067 (largest per job 0.0297); max abs diff 0.206 (expected up to about 0.15 from sampling noise only)

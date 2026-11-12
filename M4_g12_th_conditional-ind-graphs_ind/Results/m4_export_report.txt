@@ -1,0 +1,28 @@
+﻿M4 export report
+date: 2026-11-11T10:10:01   host: DESKTOP-OBJH48Q   root: D:\Het\rhino_work_transfer\rhino_work
+python: D:\Het\rhino_work_transfer\rhino_work\rhino_env\venv\Scripts\python.exe
+python 3.9.25 numpy 1.23.5
+result json files: 1253
+adj_matrices.npy files: 1258
+example: D:\Het\rhino_work_transfer\rhino_work\runs\000d1f41c0\2026-11-03_153513\models\d99b4cd5-662f-494d-ac3a-1a1af92d86f0\adj_matrices.npy
+job lists found: jobs.csv, jobs_lag.csv, jobs_queue.csv, jobs_real.csv, jobs_real_smoke.csv, jobs_shipped_synth.csv, jobs_timing.csv, jobs_varlingam_noprune.csv
+methods: ['dream3_rhino_g_paper', 'dream3_rhino_paper', 'netsim_rhino_g_paper', 'netsim_rhino_g_shipped', 'netsim_rhino_noinst_paper', 'netsim_rhino_noinst_shipped', 'netsim_rhino_paper', 'netsim_rhino_shipped', 'rhino', 'rhino_g', 'rhino_lag1', 'rhino_lag3', 'rhino_s', 'rhino_shipped']
+
+method                            results       ok  with_samples  with_truth
+dream3_rhino_g_paper                   25       25            25          25
+dream3_rhino_paper                     25       25            25          25
+netsim_rhino_g_paper                    5        5             5           5
+netsim_rhino_g_shipped                  5        5             5           5
+netsim_rhino_noinst_paper               5        5             5           5
+netsim_rhino_noinst_shipped             5        5             5           5
+netsim_rhino_paper                      5        5             5           5
+netsim_rhino_shipped                    5        5             5           5
+rhino                                 120      120           120         120
+rhino_g                               120      120           120         120
+rhino_lag1                            120      120           120         120
+rhino_lag3                            120      120           120         120
+rhino_s                               120      120           120         120
+rhino_shipped                          80       80            80          80
+
+exported 760 jobs;0 finished jobs cannot be exported.
+Re-run list for the missing ones: D:\Het\rhino_work_transfer\rhino_work\M4_g12_th_conditional-ind-graphs_ind\Code\workstation\qG_export\_missing.csv

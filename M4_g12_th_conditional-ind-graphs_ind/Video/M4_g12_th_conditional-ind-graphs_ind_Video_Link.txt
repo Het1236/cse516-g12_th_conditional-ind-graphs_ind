@@ -1,0 +1,5 @@
+https://docs.google.com/videos/d/1N9i_IAcUfV4QTUcPJn47THPYDacjl8qLV2tv9-mzi48/play?usp=sharing
+
+Video: M4 final walkthrough, "Can a Deep Temporal Causal Posterior Be Trusted?"
+Speaker: Het Patel (AU2440266). Slides: Presentation/M4_g12_th_conditional-ind-graphs_ind_Slides.pdf. Planned length about 20 minutes.
+The video file itself is not stored in the repository.
